@@ -26,8 +26,10 @@ a journey of me getting fucked by LeetCode or vice versa
   - 0053 - Maximum Subarray [[Python]](Python/53.py)
 - 2020-07-26
   - 0113 - *Path Sum II [[Python]](Python/113.py)
-  - 
 - 2020-07-29
   - 0112 - *Path Sum [[Python]](Python/112.py)
 - 2020-08-09
+  - 0590 - N-ary Tree Postorder Traversal [[Python]](Python/590.py)
+  - 0700 - Search in a Binary Search Tree [[Python]](Python/700.py)
   - 0938 - Range Sum of BST [[Python]](Python/938.py)
+  - 
