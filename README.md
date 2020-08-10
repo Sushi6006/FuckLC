@@ -29,7 +29,10 @@ a journey of me getting fucked by LeetCode or vice versa
 - 2020-07-29
   - 0112 - *Path Sum [[Python]](Python/112.py)
 - 2020-08-09
+  - 0589 - N-ary Tree Preorder Traversal [[Python]](Python/589.py)
   - 0590 - N-ary Tree Postorder Traversal [[Python]](Python/590.py)
   - 0700 - Search in a Binary Search Tree [[Python]](Python/700.py)
+  - 0897 - Increasing Order Search Tree [[Python]](Python/897.py)
   - 0938 - Range Sum of BST [[Python]](Python/938.py)
-  - 
+- 2020-08-10
+  - 0453 - Minimum Moves to Equal Array Elements [[Python]](Python/453.py)
