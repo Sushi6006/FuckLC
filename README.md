@@ -36,3 +36,6 @@ a journey of me getting fucked by LeetCode or vice versa
   - 0938 - Range Sum of BST [[Python]](Python/938.py)
 - 2020-08-10
   - 0453 - Minimum Moves to Equal Array Elements [[Python]](Python/453.py)
+- 2020-08-12
+  - 0824 - Goat Latin [[Python]](Python/824.py)
+  - 0202 - Happy Number [[Python]](Python/202.py)
