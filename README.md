@@ -3,7 +3,7 @@ a journey of me getting fucked by LeetCode or vice versa
 
 ## Solutions (order by date)
 - 2019-10-29
-  - 0717 - 1-bit and 2-bit Characters [[Python]](Python/717.py)]
+  - 0717 - 1-bit and 2-bit Characters [[Python]](Python/717.py)
 - 2020-02-13
   - 0001 - Two Sum [[Python]](Python/1.py)
 - 2020-06-17
@@ -39,3 +39,14 @@ a journey of me getting fucked by LeetCode or vice versa
 - 2020-08-12
   - 0824 - Goat Latin [[Python]](Python/824.py)
   - 0202 - Happy Number [[Python]](Python/202.py)
+- 2020-08-16
+  - 1512 - Number of Good Pairs [[Python]](Python/1512.py)
+  - 1528 - Shuffle String [[Python]](Python/1528.py)
+  - 1486 - XOR Operation in an Array [[Python]](Python/1486.py)
+  - 1389 - Create Target Array in the Given Order [[Python]](Python/1389.py)
+  - 1221 - Split a String in Balanced Strings [[Python]](Python/1221.py)
+  - 1295 - Find Numbers with Even Number of Digits [[Python]](Python/1295.py)
+  - speed run: i used 8min to complete the 6 questions above
+
+
+
