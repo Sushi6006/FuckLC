@@ -51,6 +51,13 @@ a journey of me getting fucked by LeetCode or vice versa
   - 1290 - Convert Binary Number in a Linked List to Integer [[Python]](Python/1290.py)
   - 1534 - Count Good Triplets [[Python]](Python/1534.py)
   - 0804 - Unique Morse Code Words [[Python]](Python/804.py)
+  - 1266 - Minimum Time Visiting All Points [[Python]](Python/1266.py)
+  - 0709 - To Lower Case [[Python]](Python/709.py) **wtf?**
+  - 1252 - Cells with Odd Values in a Matrix [[Python]](Python/1252.py)
+  - 1464 - Maximum Product of Two Elements in an Array [[Python]](Python/1464.py)
+  - 1323 - Maximum 69 Number [[Python]](Python/1323.py)
+
+
 
 
 
