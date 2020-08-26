@@ -1,6 +1,8 @@
 # FuckLC
 a journey of me getting fucked by LeetCode or vice versa
 
+**Questions Finished: **
+
 ## Solutions (order by date)
 - 2019-10-29
   - 0717 - 1-bit and 2-bit Characters [[Python]](Python/717.py)
@@ -56,6 +58,10 @@ a journey of me getting fucked by LeetCode or vice versa
   - 1252 - Cells with Odd Values in a Matrix [[Python]](Python/1252.py)
   - 1464 - Maximum Product of Two Elements in an Array [[Python]](Python/1464.py)
   - 1323 - Maximum 69 Number [[Python]](Python/1323.py)
+  - 1450 - Number of Students Doing Homework at a Given Time [[Python]](Python/1450.py)
+  - 1021 - Remove Outermost Parentheses [[Python]](Python/1021.py)
+
+
 
 
 
