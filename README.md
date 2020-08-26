@@ -47,6 +47,11 @@ a journey of me getting fucked by LeetCode or vice versa
   - 1221 - Split a String in Balanced Strings [[Python]](Python/1221.py)
   - 1295 - Find Numbers with Even Number of Digits [[Python]](Python/1295.py)
   - speed run: i used 8min to complete the 6 questions above
+- 2020-08-26
+  - 1290 - Convert Binary Number in a Linked List to Integer [[Python]](Python/1290.py)
+  - 1534 - Count Good Triplets [[Python]](Python/1534.py)
+  - 0804 - Unique Morse Code Words [[Python]](Python/804.py)
+
 
 
 
