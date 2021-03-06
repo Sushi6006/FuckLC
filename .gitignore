@@ -1,2 +1,4 @@
 makefile
 temp.py
+
+__pycache__

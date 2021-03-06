@@ -60,7 +60,10 @@ a journey of me getting fucked by LeetCode or vice versa
   - 1323 - Maximum 69 Number [[Python]](Python/1323.py)
   - 1450 - Number of Students Doing Homework at a Given Time [[Python]](Python/1450.py)
   - 1021 - Remove Outermost Parentheses [[Python]](Python/1021.py)
-
+- 2020-08-27
+  - 0007 - Reverse Integer [[Python]](Python/7.py)
+- 2021-03-06
+  - 0110 - Balanced Binary Tree [[Python]](Python/110.py)
 
 
 
