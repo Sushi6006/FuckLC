@@ -64,6 +64,10 @@ a journey of me getting fucked by LeetCode or vice versa
   - 0007 - Reverse Integer [[Python]](Python/7.py)
 - 2021-03-06
   - 0110 - Balanced Binary Tree [[Python]](Python/110.py)
+- 2021-03-07
+  - 0104 - Maximum Depth of Binary Tree [[Python]](Python/104.py)
+  - 0559 - Maximum Depth of N-ary Tree [[Python]](Python/559.py)
+
 
 
 
