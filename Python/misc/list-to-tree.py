@@ -10,24 +10,24 @@ def list_to_tree(li):
 
     i = 0
     root = TreeNode(li[i])
-    tmp_queue = [root]
+    queue = [root]
 
-    while tmp_queue:
+    while queue:
         i += 1
-        node = tmp_queue.pop()
+        node = queue.pop()
         if not node.val:
             continue
 
-        if 2*i -1 >= len(li):
+        if 2 * i -1 >= len(li):
             return root
         
         node.left = TreeNode(li[2*i-1])
-        tmp_queue.append(node.left)
+        queue.append(node.left)
 
-        if 2*i >= len(li):
+        if 2 * i >= len(li):
             return root
         
-        node.right = TreeNode(li[2*i])
-        tmp_queue.append(node.right)
-        
+        node.right = TreeNode(li[2 * i])
+        queue.append(node.right)
+
     return root
