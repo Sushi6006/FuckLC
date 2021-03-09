@@ -67,8 +67,12 @@ a journey of me getting fucked by LeetCode or vice versa
 - 2021-03-07
   - 0104 - Maximum Depth of Binary Tree [[Python]](Python/104.py)
   - 0559 - Maximum Depth of N-ary Tree [[Python]](Python/559.py)
-
-
+- 2021-03-08
+  - 1022 - Sum of Root To Leaf Binary Numbers [[Python]](Python/1022.py)
+- 2021-03-09
+  - 0637 - Average of Levels in Binary Tree [[Python]](Python/637.py)
+- 2021-03-10
+  - 0257 - Binary Tree Paths [[Python]](Python/257.py)
 
 
 
