@@ -73,6 +73,8 @@ a journey of me getting fucked by LeetCode or vice versa
   - 0637 - Average of Levels in Binary Tree [[Python]](Python/637.py)
 - 2021-03-10
   - 0257 - Binary Tree Paths [[Python]](Python/257.py)
+  - 0965 - Univalued Binary Tree [[Python]](Python/965.py)
+  - 0226 - Invert Binary Tree [[Python]](Python/226.py)
 
 
 
