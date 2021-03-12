@@ -75,7 +75,11 @@ a journey of me getting fucked by LeetCode or vice versa
   - 0257 - Binary Tree Paths [[Python]](Python/257.py)
   - 0965 - Univalued Binary Tree [[Python]](Python/965.py)
   - 0226 - Invert Binary Tree [[Python]](Python/226.py)
-
+- 2021-03-11
+  - 0872 - Leaf-Similar Trees [[Python]](Python/872.py)
+- 2021-03-12
+  - 0100 - Same Tree [[Python]](Python/100.py)
+  - 0653 - Two Sum IV - Input is a BST [[Python]](Python/653.py)
 
 
 
