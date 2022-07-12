@@ -84,4 +84,5 @@ a journey of me getting fucked by LeetCode or vice versa
   - 0724 - Find Pivot Index [[Python]](Python/724.py)
   - 0704 - Binary Search [[Python]](Python/704.py)
   - 0278 - First Bad Verion [[Python]](Python/278.py)
+  - 0035 - Search Insert Position [[Python]](Python/35.py)
 
