@@ -1,8 +1,6 @@
 # FuckLC
 a journey of me getting fucked by LeetCode or vice versa
 
-**Questions Finished: **
-
 ## Solutions (order by date)
 - 2019-10-29
   - 0717 - 1-bit and 2-bit Characters [[Python]](Python/717.py)
