@@ -80,8 +80,6 @@ a journey of me getting fucked by LeetCode or vice versa
 - 2021-03-12
   - 0100 - Same Tree [[Python]](Python/100.py)
   - 0653 - Two Sum IV - Input is a BST [[Python]](Python/653.py)
-
-
-
-
+- 2022-07-12
+  - 1275 - Find Winner on a Tic Tac Toe Game [[Python]](Python/1275.py)
 
