@@ -80,4 +80,5 @@ a journey of me getting fucked by LeetCode or vice versa
   - 0653 - Two Sum IV - Input is a BST [[Python]](Python/653.py)
 - 2022-07-12
   - 1275 - Find Winner on a Tic Tac Toe Game [[Python]](Python/1275.py)
+  - 0724 - Find Pivot Index [[Python]](Python/724.py)
 
