@@ -1,17 +1,18 @@
 class Solution:
-    
+
     WIDTH = 3
-    
-    def tictactoe(self, moves: List[List[int]]) -> str:
+
+    def tictactoe(self, moves: list[list[int]]) -> str:
 
         def check_straight(moves: list[list[int]]) -> bool:
             if len(moves) < self.WIDTH:  # not enough
                 return False
             for dir in range(2):
                 for _ in range(self.WIDTH):
-                    a_pos = set([move[dir] for move in moves]) 
+                    a_pos = set([move[dir] for move in moves])
                     for num in a_pos:
-                        if list([move[dir] for move in moves]).count(num) == self.WIDTH:
+                        if list([move[dir] for move in moves]).count(
+                                num) == self.WIDTH:
                             return True  # WIN
             return False  # criteria not met
 
@@ -19,7 +20,7 @@ class Solution:
             diag_line_1 = [[0, 0], [1, 1], [2, 2]]
             diag_line_2 = [[0, 2], [1, 1], [2, 0]]
             if all([slot in moves for slot in diag_line_1]) or \
-                all([slot in moves for slot in diag_line_2]):
+                    all([slot in moves for slot in diag_line_2]):
                 return True  # WIN
             return False  # criteria not met
 
@@ -40,3 +41,28 @@ class Solution:
 
         # else, draw
         return "Draw"
+
+
+if __name__ == "__main__":
+    solution = Solution()
+
+    moves = [[0, 0], [2, 0], [1, 1], [2, 1], [2, 2]]
+    print("\n======================\nMoves:   {}".format(moves))
+    print("Result: ", solution.tictactoe(moves))
+
+    moves = [[0, 0], [1, 1], [0, 1], [0, 2], [1, 0], [2, 0]]
+    print("\n======================\nMoves:   {}".format(moves))
+    print("Result: ", solution.tictactoe(moves))
+
+    moves = [[0, 0], [1, 1], [2, 0], [1, 0], [
+        1, 2], [2, 1], [0, 1], [0, 2], [2, 2]]
+    print("\n======================\nMoves:   {}".format(moves))
+    print("Result: ", solution.tictactoe(moves))
+
+    moves = [[0, 0], [1, 1]]
+    print("\n======================\nMoves:   {}".format(moves))
+    print("Result: ", solution.tictactoe(moves))
+
+    moves = [[1, 2], [2, 1], [1, 0], [0, 0], [0, 1], [2, 0], [1, 1]]
+    print("\n======================\nMoves:   {}".format(moves))
+    print("Result: ", solution.tictactoe(moves))
