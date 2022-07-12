@@ -83,4 +83,5 @@ a journey of me getting fucked by LeetCode or vice versa
   - 1480 - [Redo] Running Sum of 1d Array [[Python]](Python/1480.py)
   - 0724 - Find Pivot Index [[Python]](Python/724.py)
   - 0704 - Binary Search [[Python]](Python/704.py)
+  - 0278 - First Bad Verion [[Python]](Python/278.py)
 
