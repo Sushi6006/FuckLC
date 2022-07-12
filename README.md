@@ -80,5 +80,7 @@ a journey of me getting fucked by LeetCode or vice versa
   - 0653 - Two Sum IV - Input is a BST [[Python]](Python/653.py)
 - 2022-07-12
   - 1275 - Find Winner on a Tic Tac Toe Game [[Python]](Python/1275.py)
+  - 1480 - [Redo] Running Sum of 1d Array [[Python]](Python/1480.py)
   - 0724 - Find Pivot Index [[Python]](Python/724.py)
+  - 0704 - Binary Search [[Python]](Python/704.py)
 
