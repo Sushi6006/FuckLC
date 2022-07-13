@@ -87,4 +87,5 @@ a journey of me getting fucked by LeetCode or vice versa
   - 0035 - Search Insert Position [[Python]](Python/35.py)
 - 2022-07-13
   - 0205 - Isomorphic Strings [[Python]](Python/205.py)
+  - 0392 - Is Subsequence [[Python]](Python/392.py)
 
