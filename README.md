@@ -85,4 +85,6 @@ a journey of me getting fucked by LeetCode or vice versa
   - 0704 - Binary Search [[Python]](Python/704.py)
   - 0278 - First Bad Verion [[Python]](Python/278.py)
   - 0035 - Search Insert Position [[Python]](Python/35.py)
+- 2022-07-13
+  - 0205 - Isomorphic Strings [[Python]](Python/205.py)
 
