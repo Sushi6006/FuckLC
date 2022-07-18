@@ -90,8 +90,9 @@ a journey of me getting fucked by LeetCode or vice versa
   - 0392 - Is Subsequence [[Python]](Python/392.py)
   - 0977 - Squares of a Sorted Array [[Python]](Python/977.py)
 - 2022-07-18
-  - 1857 - Max Population Year [[Python]](Python/1857.py) *2 solutions finished, 1 unfinshed, come back
-  - 0189 - Rotate Array [[Python]](Python/189.py) *1.5 solutions finished, 1 unfinished, come back
+  - 1857 - Max Population Year [[Python]](Python/1857.py) *2 solutions finished, 1 unfinshed, come back*
+  - 0189 - Rotate Array [[Python]](Python/189.py) *1.5 solutions finished, 1 unfinished, come back*
   - 0021 - Merge Two Sorted Lists [[Python]](Python/21.py)
   - 0206 - Reverse Linked List [[Python]](Python/206.py)
   - 0876 - Middle of the Linked List [[Python]](Python/876.py)
+  - 0142 - Linked List Cycle II [[Python]](Python/142.py)  *detailed description provided*
