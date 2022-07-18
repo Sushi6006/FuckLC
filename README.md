@@ -93,3 +93,4 @@ a journey of me getting fucked by LeetCode or vice versa
   - 1857 - Max Population Year [[Python]](Python/1857.py) *2 solutions finished, 1 unfinshed, come back
   - 0189 - Rotate Array [[Python]](Python/189.py) *1.5 solutions finished, 1 unfinished, come back
   - 0021 - Merge Two Sorted Lists [[Python]](Python/21.py)
+  - 0206 - Reverse Linked List [[Python]](Python/206.py)
