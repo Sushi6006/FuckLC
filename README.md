@@ -89,5 +89,5 @@ a journey of me getting fucked by LeetCode or vice versa
   - 0205 - Isomorphic Strings [[Python]](Python/205.py)
   - 0392 - Is Subsequence [[Python]](Python/392.py)
   - 0977 - Squares of a Sorted Array [[Python]](Python/977.py)
-
-
+- 2022-07-18
+  - 1857 - Max Population Year [[Python]](Python/1857.py) *2 solutions finished, 1 unfinshed, come back
